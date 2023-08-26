@@ -1,0 +1,6 @@
+2023-08-26 09:44:29,849 start of logging, level chosen: DEBUG
+2023-08-26 09:44:29,849 some critical msg
+2023-08-26 09:44:29,849 some error msg
+2023-08-26 09:44:29,849 some info msg
+2023-08-26 09:44:29,849 some debug msg
+2023-08-26 09:44:29,849 end of logging
